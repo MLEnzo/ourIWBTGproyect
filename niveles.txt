@@ -1,0 +1,20 @@
+nivel1: 
+	objetivo:
+        enemigo:
+        armas: manos y pies
+        ecenario:
+	reconpensa:
+
+nivel2: 
+	objetivo:
+        enemigo:
+        armas: snife
+        ecenario:
+	reconpensa:
+nivel3: 
+	objetivo:
+        enemigo:
+        armas: arma de fuego
+        ecenario:
+	reconpensa:
+               
